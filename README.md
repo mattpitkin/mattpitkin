@@ -1,4 +1,6 @@
-### Hi there 👋
+### It's Matt Pitkin!
+
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattpitkin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mattpitkin/mattpitkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
